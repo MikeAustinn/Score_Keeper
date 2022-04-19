@@ -1,6 +1,5 @@
 '''Mike Austin'''
-'''CS Project 3'''
-'''Mike Austin'''
+
 #Import the OS module to move through dictionaries quicker
 #Create the file 'scores.txt' to keep track of the name and scores
 import os
